@@ -13,10 +13,10 @@
   },
 
   "objective": [
-    I am seeking an internship opportunity to apply
+    "I am seeking an internship opportunity to apply
     programming concepts, develop technical skills,
     and gain practical experience in the technology field,
-    aiming for personal development and professional growth.
+    aiming for personal development and professional growth."
   ],
 
   "links": {
