@@ -1,4 +1,26 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&username=mukiba" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=true&username=mukiba" height="150" alt="languages graph"  />
-</div>
+{
+  "name": "Murilo Oliveira Souza",
+  "age": 18,
+  "role": "Back-end Developer in training",
+  "location": "Brazil",
+
+  "tech_stack": {
+    "languages": ["Java", "Python","C++"],
+    "frameworks": ["Spring Boot", "Django"],
+    "databases": ["SQL", "PostgreSQL"]
+  },
+
+  "objective": [
+    I am seeking an internship opportunity to apply
+    programming concepts, develop technical skills,
+    and gain practical experience in the technology field,
+    aiming for personal development and professional growth.
+  ],
+
+  "links": {
+    "github": "https://github.com/mukiba/",
+    "linkedin": "https://www.linkedin.com/in/murilo-souza-44487b27a/",
+    "instagram": "https://www.instagram.com/souzamurilo/"
+  }
+}
+
