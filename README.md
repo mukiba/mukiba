@@ -1,3 +1,8 @@
+🖐 Hey.
+
+My name is Murilo. I'm studying systems analysis and development at the Federal Institute of Education, Science and Technology of Southern Rio Grande (IFsul) and I am currently
+seeking an internship opportunity to apply programming concepts, develop technical skills, and gain practical experience in the technology field, aiming for personal development and professional growth.
+
 @@ -5,26 +5,26 @@
 ```json
 {
@@ -12,8 +17,10 @@
     "databases": ["SQL", "PostgreSQL"]
   },
 
-  "objective": [
-    "I am seeking an internship opportunity to apply programming concepts, develop technical skills, and gain practical experience in the technology field, aiming for personal development and professional growth."
+   "focus": [
+    "Web application",
+    "Performance optimization",
+    "Clean architecture"
   ],
 
   "links": {
